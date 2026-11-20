@@ -1,0 +1,8 @@
+# Training-only dependencies.
+# The Streamlit app runs fine without these; install them locally only when
+# you need to retrain the ANN / DL models:
+#
+#   pip install -r requirements.txt -r requirements-train.txt
+#
+-r requirements.txt
+tensorflow==2.16.1

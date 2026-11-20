@@ -1,0 +1,32 @@
+{
+    "Mathematics-I": [
+        50.0,
+        50.0,
+        50.0
+    ],
+    "Applied Physics": [
+        40.0,
+        47.0,
+        47.0
+    ],
+    "Programming in C": [
+        49.0,
+        45.0,
+        45.0
+    ],
+    "Introduction to Electronics": [
+        50.0,
+        46.0,
+        49.0
+    ],
+    "Engineering Drawing": [
+        45.0,
+        49.0,
+        48.0
+    ],
+    "C Lab": [
+        47.0,
+        47.0,
+        50.0
+    ]
+}
